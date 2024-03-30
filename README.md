@@ -11,6 +11,7 @@ This project will utilize a dataset containing customer transaction data and dem
 Data Preparation:
 
 Source Dataset: Updated Ultra Projects- Data Science
+https://docs.google.com/spreadsheets/d/12aX8EK_-xTKxBkceZMzC54nuD-MLuyxfzZD19rZSf5E/edit#gid=0
 
 Tools & Techniques: SQL or MySQL for data querying and preprocessing, GIT for version control.
 
